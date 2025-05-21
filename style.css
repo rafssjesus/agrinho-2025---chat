@@ -173,3 +173,32 @@ body, html {
 .galeria-imagens img:hover {
   transform: scale(1.05);
 }
+#rodape {
+  background-color: #795548; /* tom terroso suave */
+  color: white;
+  padding: 40px 20px 10px;
+}
+
+.rodape-conteudo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  max-width: 1100px;
+  margin: 0 auto 20px;
+  flex-wrap: wrap;
+}
+
+.logo-rodape img {
+  height: 60px;
+}
+
+.texto-rodape p {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.creditos {
+  text-align: center;
+  font-size: 12px;
+  color: #e0e0e0;
+}

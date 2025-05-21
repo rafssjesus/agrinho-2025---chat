@@ -34,7 +34,7 @@ body, html {
 }
 
 .nav-menu a {
-  color: white;
+  color: #261814;
   text-decoration: none;
   font-weight: bold;
   font-size: 16px;
@@ -57,7 +57,7 @@ body, html {
 .header-content button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #4CAF50;
+  background-color:#AABF5E;
   color: white;
   border: none;
   cursor: pointer;
@@ -70,7 +70,7 @@ body, html {
 }
 
 .conteudo-inicial {
-  background-color: white;
+  background-color: #9DBF21;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -100,7 +100,7 @@ body, html {
 }
 
 .secao-explicativa {
-  background-color: #e0f2e9; /* verde claro suave */
+  background-color: #5A8C0F; /* verde claro suave */
   padding: 60px 20px;
 }
 
@@ -144,7 +144,7 @@ body, html {
 
 /* Galeria de imagens */
 .galeria {
-  background-color: #c8e6c9; /* verde um pouco mais escuro */
+  background-color: #2B590B; /* verde um pouco mais escuro */
   padding: 60px 20px;
   text-align: center;
 }
@@ -174,7 +174,7 @@ body, html {
   transform: scale(1.05);
 }
 #rodape {
-  background-color: #795548; /* tom terroso suave */
+  background-color: #F2F2F2; /* tom terroso suave */
   color: white;
   padding: 40px 20px 10px;
 }

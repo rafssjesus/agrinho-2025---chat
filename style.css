@@ -10,7 +10,7 @@ body, html {
 }
 
 .site-header {
-  background-image: url('caminho-da-imagem-de-fundo.jpg'); /* Substitua aqui */
+  background-image: url('imagem background cabeçalho.jpeg'); /* fundo cabeçalho*/
   background-size: cover;
   background-position: center;
   color: white;

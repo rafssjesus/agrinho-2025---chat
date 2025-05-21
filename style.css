@@ -93,7 +93,7 @@ body, html {
   height: 120px;
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid #4CAF50;
+  border: 3px solid #4aaa4d;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
@@ -124,7 +124,7 @@ body, html {
 
 .texto-imagem .texto h2 {
   font-size: 40px;
-  color: #2e7d32;
+  color: #61df67;
   margin-bottom: 20px;
 }
 
@@ -178,8 +178,8 @@ body, html {
   transform: scale(1.05);
 }
 #rodape {
-  background-color: #F2F2F2; /* tom terroso suave */
-  color: rgb(3, 3, 3);
+  background-color: #1f4b23; /* tom terroso suave */
+  color: rgb(253, 252, 252);
   padding: 40px 20px 10px;
 }
 
